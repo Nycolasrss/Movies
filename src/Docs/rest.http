@@ -1,0 +1,14 @@
+### 
+
+GET http://localhost:8080/movies
+
+###
+
+GET http://localhost:8080/movies?title=Matrix
+
+###
+
+GET http://localhost:8080/movies?title=Venom
+
+
+
