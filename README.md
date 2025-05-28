@@ -1,5 +1,5 @@
 # 🎬 Localizador de Filmes
-
+## 📌 Sobre o projeto
 Essa é uma API usada para localizar filmes gravados em **San Francisco**.
 
 Ela utiliza o **WebClient** do Spring para fazer requisições HTTP e consumir uma **API externa** que retorna os filmes gravados em SF, a busca pode ser filtrada pelos titulos também.
@@ -14,8 +14,9 @@ Os dados são retirados do portal público:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🌐 Tecnologias Utilizadas
 
 - ✅ **Spring Boot**
 - ✅ **Spring WebFlux**
 - ✅ **Java**
+- ✅ **Maven**
